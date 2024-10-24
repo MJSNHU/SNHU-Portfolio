@@ -1,0 +1,9 @@
+
+**** Build of configuration MCU+Image for project 7-1 ****
+
+"C:\\ti\\ccs1280\\ccs\\utils\\bin\\gmake" -k -j 20 all -O 
+ 
+gmake[1]: '7-1.out' is up to date.
+gmake[1]: Nothing to be done for 'secondary-outputs'.
+
+**** Build Finished ****

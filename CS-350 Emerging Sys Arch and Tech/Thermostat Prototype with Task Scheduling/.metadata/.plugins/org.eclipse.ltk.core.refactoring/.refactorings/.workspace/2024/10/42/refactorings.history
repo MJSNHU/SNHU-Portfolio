@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;gpiointerrupt_CC3220S_LAUNCHXL_nortos_ticlang&apos; to &apos;7-1&apos;" description="Rename resource &apos;gpiointerrupt_CC3220S_LAUNCHXL_nortos_ticlang&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/gpiointerrupt_CC3220S_LAUNCHXL_nortos_ticlang" name="7-1" stamp="1729090481866" updateReferences="true"/>
+</session>

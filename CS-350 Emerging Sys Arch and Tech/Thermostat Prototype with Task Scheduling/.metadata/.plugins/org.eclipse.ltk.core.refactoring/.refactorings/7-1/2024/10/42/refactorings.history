@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;7-1/gpiointerrupt.c&apos; to &apos;7-1.c&apos;" description="Rename resource &apos;gpiointerrupt.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="gpiointerrupt.c" name="7-1.c" stamp="1729090508432" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;7-1/gpiointerrupt.syscfg&apos; to &apos;7-1.syscfg&apos;" description="Rename resource &apos;gpiointerrupt.syscfg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="gpiointerrupt.syscfg" name="7-1.syscfg" stamp="1729090515816" updateReferences="true"/>
+</session>
